@@ -1,0 +1,7 @@
+- What is docker compose?
+-> It's a tool used to create and running multi-container applications.
+
+- How can I proceed?
+
+
+
